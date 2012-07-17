@@ -1,0 +1,1 @@
+<?php echo $this->element('stylesheet', array('stylesheet' => $stylesheet)); ?>
